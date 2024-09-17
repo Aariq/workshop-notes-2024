@@ -47,7 +47,7 @@ kable(table(penguins$sex, penguins$island, useNA = "always"))
 
 ```{r}
 #| label: fig-bill
-#| fig-cap: "Bill length (mm) by sex" 
+#| fig-cap: "Bill length (mm) by penguin sex" 
 
 ggplot(penguins, aes(x = sex, y = bill_length_mm)) + geom_boxplot()
 ```
