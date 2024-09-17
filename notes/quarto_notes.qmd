@@ -62,6 +62,14 @@ $$ {#eq-line}
 
 ## Escaping markdown
 
-Use `\` as an "escape character" to stop symbols from doing anything special.
+Use `\` as an "escape character" to stop symbols from doing anything special
 
 *itallics* vs \*literally surrounded with astrixes\*
+
+bullet points:
+
+-   one
+
+-   two
+
+-   three
