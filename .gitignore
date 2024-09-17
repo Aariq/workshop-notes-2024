@@ -5,6 +5,5 @@
 .DS_Store
 .quarto
 
-02-analyze.R
 quarto_notes.html
 quarto_notes_files/
