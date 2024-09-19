@@ -2,6 +2,6 @@
 
 This is just a demo project to practice making a research compendium
 
-hello!
-My name is Eric!
-I'm a data scientists
+## Introduction
+
+Hello, my name is Eric! I'm a data scientist.
